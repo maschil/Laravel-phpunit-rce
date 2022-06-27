@@ -4,7 +4,6 @@
  [+] Fast Upload + Scan
 </br> [+] Laravel PHPUNIT RCE Upload Shell
 </br> [+] Vulnability Dzs-Zoomsounds Scanner
-</br> [+] Contacts Info Telegram @haxgeno7
 
 # Google Dork
 index of /PHP/eval-stdin.php
